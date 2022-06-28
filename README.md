@@ -5,6 +5,7 @@
 [![Documentation](https://docs.rs/monero/badge.svg)](https://docs.rs/monero)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MSRV](https://img.shields.io/badge/MSRV-1.51.0-blue)](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html)
+[![Dependency status](https://deps.rs/repo/github/monero-rs/monero-rs/status.svg)](https://deps.rs/repo/github/monero-rs/monero-rs)
 
 # Rust Monero Library
 
